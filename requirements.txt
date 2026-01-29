@@ -1,0 +1,38 @@
+# -------------------------
+# Core utilities
+# -------------------------
+requests>=2.31.0
+python-dateutil>=2.9.0
+tqdm>=4.66.0
+python-dotenv>=1.0.0
+
+# -------------------------
+# PDF processing (required by normalize_all.py)
+# -------------------------
+pypdf>=4.0.0
+pdfminer.six>=20221105
+
+# -------------------------
+# Article ingestion (HTML)
+# -------------------------
+beautifulsoup4>=4.12.0
+readability-lxml>=0.8.1
+lxml>=5.0.0
+feedparser>=6.0.11
+
+# -------------------------
+# Vector search & embeddings
+# -------------------------
+numpy>=1.24.0
+faiss-cpu>=1.8.0
+sentence-transformers>=2.6.0
+
+# -------------------------
+# App runtime
+# -------------------------
+streamlit>=1.31.0
+
+# -------------------------
+# Dev / inspection (optional)
+# -------------------------
+jq>=1.6 ; platform_system != "Windows"

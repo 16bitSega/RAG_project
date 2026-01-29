@@ -1,0 +1,176 @@
+[
+  {
+    "id": "anthropic_multi_agent_research_system",
+    "type": "html",
+    "publisher": "Anthropic",
+    "url": "https://www.anthropic.com/engineering/multi-agent-research-system"
+  },
+  {
+    "id": "anthropic_agentic_misalignment",
+    "type": "html",
+    "publisher": "Anthropic",
+    "url": "https://www.anthropic.com/research/agentic-misalignment"
+  },
+  {
+    "id": "react_arxiv_2210_03629",
+    "type": "pdf",
+    "publisher": "arXiv",
+    "url": "https://arxiv.org/pdf/2210.03629.pdf"
+  },
+  {
+    "id": "rag_arxiv_2005_11401",
+    "type": "pdf",
+    "publisher": "arXiv",
+    "url": "https://arxiv.org/pdf/2005.11401.pdf"
+  },
+  {
+    "id": "toolformer_arxiv_2302_04761",
+    "type": "pdf",
+    "publisher": "arXiv",
+    "url": "https://arxiv.org/pdf/2302.04761.pdf"
+  },
+  {
+    "id": "tds_single_vs_multi_agent_systems",
+    "type": "html",
+    "publisher": "Towards Data Science",
+    "url": "https://towardsdatascience.com/agentic-ai-single-vs-multi-agent-systems/"
+  },
+  {
+    "id": "tds_langgraph_101_deep_research_agent",
+    "type": "html",
+    "publisher": "Towards Data Science",
+    "url": "https://towardsdatascience.com/langgraph-101-lets-build-a-deep-research-agent/"
+  },
+  {
+    "id": "tds_effective_ai_agents_at_scale",
+    "type": "html",
+    "publisher": "Towards Data Science",
+    "url": "https://towardsdatascience.com/how-to-build-effective-ai-agents-to-process-millions-of-requests/"
+  },
+  {
+    "id": "ai_sdk_mcp_tools",
+    "type": "html",
+    "publisher": "AI SDK",
+    "url": "https://ai-sdk.dev/docs/ai-sdk-core/mcp-tools"
+  },
+  {
+    "id": "byteplus_mcp_topic",
+    "type": "html",
+    "publisher": "BytePlus",
+    "url": "https://www.byteplus.com/en/topic/542256?title="
+  },
+  {
+    "id": "merge_mcp_tool_schema",
+    "type": "html",
+    "publisher": "Merge.dev",
+    "url": "https://www.merge.dev/blog/mcp-tool-schema"
+  },
+  {
+    "id": "netfoundry_ai_agent_mcp_decision",
+    "type": "html",
+    "publisher": "NetFoundry",
+    "url": "https://netfoundry.io/ai/how-an-ai-agent-decides-to-call-mcp-tools/"
+  },
+  {
+    "id": "modelcontextprotocol_github",
+    "type": "html",
+    "publisher": "Model Context Protocol",
+    "url": "https://github.com/modelcontextprotocol/modelcontextprotocol"
+  },
+  {
+    "id": "devto_react_vs_plan_execute",
+    "type": "html",
+    "publisher": "Dev.to",
+    "url": "https://dev.to/jamesli/react-vs-plan-and-execute-a-practical-comparison-of-llm-agent-patterns-4gh9"
+  },
+  {
+    "id": "byaiteam_agent_planning_reliability",
+    "type": "html",
+    "publisher": "By AI Team",
+    "url": "https://byaiteam.com/blog/2025/12/09/ai-agent-planning-react-vs-plan-and-execute-for-reliability/"
+  },
+  {
+    "id": "linkedin_build_ai_agent_post",
+    "type": "html",
+    "publisher": "LinkedIn",
+    "url": "https://www.linkedin.com/posts/lewisowain_how-to-build-an-ai-agent-activity-7402339630764941312-_G5h/"
+  },
+  {
+    "id": "scitepress_multiagent_paper_2021",
+    "type": "pdf",
+    "publisher": "SciTePress",
+    "url": "https://www.scitepress.org/Papers/2021/105593/105593.pdf"
+  },
+  {
+    "id": "geeksforgeeks_informed_vs_uninformed_search",
+    "type": "html",
+    "publisher": "GeeksforGeeks",
+    "url": "https://www.geeksforgeeks.org/artificial-intelligence/difference-between-informed-and-uninformed-search-in-ai/"
+  },
+  {
+    "id": "baeldung_informed_vs_uninformed_search",
+    "type": "html",
+    "publisher": "Baeldung",
+    "url": "https://www.baeldung.com/cs/informed-vs-uninformed-search"
+  },
+  {
+    "id": "scaler_informed_vs_uninformed_search",
+    "type": "html",
+    "publisher": "Scaler",
+    "url": "https://www.scaler.com/topics/difference-between-informed-and-uninformed-search/"
+  },
+  {
+    "id": "scipub_agent_search_paper_2021",
+    "type": "pdf",
+    "publisher": "Science Publications",
+    "url": "https://thescipub.com/pdf/jcssp.2021.1147.1156.pdf"
+  },
+  {
+    "id": "ibm_ai_agent_orchestration",
+    "type": "html",
+    "publisher": "IBM",
+    "url": "https://www.ibm.com/think/topics/ai-agent-orchestration"
+  },
+  {
+    "id": "domo_ai_agent_orchestration",
+    "type": "html",
+    "publisher": "Domo",
+    "url": "https://www.domo.com/glossary/ai-agent-orchestration"
+  },
+  {
+    "id": "aimultiple_agentic_frameworks",
+    "type": "html",
+    "publisher": "AI Multiple",
+    "url": "https://research.aimultiple.com/agentic-frameworks/"
+  },
+  {
+    "id": "reddit_multiagent_system_evaluator",
+    "type": "html",
+    "publisher": "Reddit",
+    "url": "https://www.reddit.com/r/PromptSynergy/comments/1np7wxw/multiagent_system_evaluator_with_40point_analysis/"
+  },
+  {
+    "id": "dextra_ai_agent_orchestration",
+    "type": "html",
+    "publisher": "Dextra Labs",
+    "url": "https://dextralabs.com/blog/what-is-ai-agent-orchestration/"
+  },
+  {
+    "id": "kubiya_agent_orchestration_frameworks",
+    "type": "html",
+    "publisher": "Kubiya",
+    "url": "https://www.kubiya.ai/blog/ai-agent-orchestration-frameworks"
+  },
+  {
+    "id": "projectpro_ai_agent_evaluation",
+    "type": "html",
+    "publisher": "ProjectPro",
+    "url": "https://www.projectpro.io/article/ai-agent-evaluation/1178"
+  },
+  {
+    "id": "zyrix_multi_agent_testing_guide_2025",
+    "type": "html",
+    "publisher": "Zyrix AI",
+    "url": "https://zyrix.ai/blogs/multi-agent-ai-testing-guide-2025/"
+  }
+]

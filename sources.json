@@ -1,0 +1,33 @@
+{
+  "sources": [
+    {
+      "id": "agentic_design_patterns",
+      "title": "Agentic Design Patterns: A Hands-On Guide to Building Intelligent Systems",
+      "format": "pdf",
+      "filename": "Agentic_Design_Patterns.pdf",
+      "required": true
+    },
+    {
+      "id": "generative_ai_design_patterns",
+      "title": "Generative AI Design Patterns: Solutions to Common Challenges When Building GenAI Agents and Applications",
+      "format": "pdf",
+      "filename": "Generative_AI_Design_Patterns.pdf",
+      "required": true
+    },
+    {
+      "id": "aima",
+      "title": "Artificial Intelligence: A Modern Approach",
+      "format": "pdf",
+      "filename": "AIMA.pdf",
+      "required": true
+    },
+    {
+      "id": "mcp_spec",
+      "title": "Model Context Protocol (MCP) specification (curated)",
+      "format": "markdown",
+      "path": "mcp/",
+      "required": true,
+      "note": "This package includes a curated snapshot extracted from modelcontextprotocol.io/llms-full.txt."
+    }
+  ]
+}
