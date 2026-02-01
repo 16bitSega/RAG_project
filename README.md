@@ -14,6 +14,11 @@ It indexes chunk files with FAISS and retrieves across:
 - MCP markdowns (doc_id prefix: `mcp::`)
 - Articles (doc_id prefix: `article::`)
 
+
+## Preview without local installation is available at the:
+https://huggingface.co/spaces/16bitSega/Agentic_RAG
+
+
 ## Quick start (local)
 
 ### 0) Prerequisites
